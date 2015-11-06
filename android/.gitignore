@@ -12,7 +12,7 @@ build/
 
 # JNI
 #MapboxGLAndroidSDK/src/main/jniLibs/
-#MapboxGLAndroidSDK/src/main/obj.target/
+MapboxGLAndroidSDK/src/main/obj.target/
 
 # Lib assets
 #MapboxGLAndroidSDK/src/main/assets/
